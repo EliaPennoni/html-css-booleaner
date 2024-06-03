@@ -13,6 +13,87 @@
     margin-top: 80px;
 }
 
+.parola2{
+    color: rgb(30, 147, 186);
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.parola1{
+    color: gray;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    margin-bottom: 0%;
+}
+
+.data{
+    color: gray;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    padding: 0;
+    margin-top: 0%;
+    
+}
+
+.testogiallo{
+    background-color: yellow;
+}
+
+.sottotitolo1{
+    
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        
+}
+
+.sottotitolo2{
+    
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        
+
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+
+  thead {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+  }
+
+  tbody {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+
+  tbody tr:nth-child(odd) {
+    background-color: aqua;
+  }
+
+  tbody tr:nth-child(even) {
+    background-color: white;
+  }
+
+  .cella{
+    width: 300px;
+  }
+
+  .ultimotitolo{
+    color: gray;
+  }
+
 
 
 
